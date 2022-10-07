@@ -1,4 +1,3 @@
-
 <html>
 <head><title>Mi CV</title></head>
 <body background="https://wallpaperaccess.com/full/972510.jpg">
